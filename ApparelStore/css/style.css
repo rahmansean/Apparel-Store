@@ -1,0 +1,14 @@
+body{
+    background-color: beige;
+}
+
+.col-sm-2
+{
+  
+    border: 10px soid blue;
+    margin-top: auto;
+}
+
+.s{
+    background-image: url("../img/shirt.jpg");
+}
